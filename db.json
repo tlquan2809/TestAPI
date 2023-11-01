@@ -1,12 +1,12 @@
 {
-       “productNumber”: “HTML5-TB-NB-JAR-Mobile-Test-A300”,
+       "productNumber": "HTML5-TB-NB-JAR-Mobile-Test-A300",
        "category": "Mobile-Test-A300",
-       "baseUrl": “/tml_downloader/downloadData/b14369c2-4579-4ce4-886a-f093404b30ae”,
+       "baseUrl": "/tml_downloader/downloadData/b14369c2-4579-4ce4-886a-f093404b30ae",
        "orderDateAndTime": "20230512064459",
        "customizedFor": "JAR",
-       “documentOwnerName”: “JARO International",
-       “size”: 2386117488,
-       “totalManuals”: 4,
+       "documentOwnerName": "JARO International",
+       "size": 2386117488,
+       "totalManuals": 4,
        "smartSyncs": {
              [
              "SmartSync_TML_JAR_TB-NB_JAR-Mobile-Test-A300_20230512064459_20230512074045.zip" : 2325235235,
